@@ -19,4 +19,5 @@ Experiment with 3 methods: Distance-based Method, Isolation Forest, and DBSCAN.
 * Feature selection to reduce dataset dimensions
 * Batch (Cluster) processing applied for DBSCAN
 
+<h2>Image</h2>
 ![](./pic/image.PNG)
