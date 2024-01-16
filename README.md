@@ -4,6 +4,7 @@ Data source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Find the fraudulent credit card transactions.
 
-**METHODOLOGY**
+<h2>PURPOSE</h2>
 
-Refer to: Methodology.pdf
+Refer to: **Methodology.pdf**
+
